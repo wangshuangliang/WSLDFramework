@@ -10,4 +10,9 @@
 
 @implementation SPerson
 
+- (void)goHome
+{
+    NSLog(@"静态库 GO HOME");
+}
+
 @end
